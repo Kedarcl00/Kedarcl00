@@ -25,11 +25,11 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kedarclgofficial00&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kedarclgofficial00-7704&show_icons=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarclgofficial00&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarcl00&layout=compact" />
 </p>
 
 <h2>🔥 Current Project</h2>

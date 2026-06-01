@@ -43,5 +43,5 @@
 
 <p>
   <a href="https://github.com/Kedarcl00">GitHub</a> |
-  <a href="https://linkedin.com/in/Kedar Patil">LinkedIn</a>
+  <a href="https://linkedin.com/in/kedar-patil54">LinkedIn</a>
 </p>

@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kedar Patil</h1>
+<h1 align="center">🚀 Kedar Patil</h1>
 
-<h3 align="center">💻 Full-Stack Developer in Progress</h3>
+<h3 align="center">B.Sc. IT Student | Web Developer | MongoDB Enthusiast</h3>
 
 <p align="center">
-  Passionate about Web Development, MongoDB, Node.js, and Building Real Projects.
+  Building Projects • Learning Daily • Growing as a Developer
 </p>
-
 <hr>
 
 <h2>🚀 About Me</h2>

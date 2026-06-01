@@ -42,6 +42,6 @@
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> |
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://github.com/Kedarcl00">GitHub</a> |
+  <a href="https://linkedin.com/in/Kedar Patil">LinkedIn</a>
 </p>

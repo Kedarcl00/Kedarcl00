@@ -1,70 +1,48 @@
-# Hi 👋, I'm Kedar Patil
+<h1 align="center">Hi 👋, I'm Kedar Patil</h1>
 
-### 🎓 B.Sc. IT Student
-### 💻 Aspiring Full-Stack Web Developer
+<h3 align="center">💻 Full-Stack Developer in Progress</h3>
 
----
+<p align="center">
+  Passionate about Web Development, MongoDB, Node.js, and Building Real Projects.
+</p>
 
-## 🚀 About Me
+<hr>
 
-- 🌱 Currently learning **Node.js, Express.js, MongoDB**
-- 🔭 Working on an **Online Memory Album Project**
-- 🎯 Goal: Become a Full-Stack Developer
-- 📍 Maharashtra, India
+<h2>🚀 About Me</h2>
 
----
+<ul>
+  <li>🎓 B.Sc. IT Student</li>
+  <li>🌱 Learning Node.js, Express.js & MongoDB</li>
+  <li>📸 Built an Online Memory Album Project</li>
+  <li>🎯 Goal: Become a Full-Stack Developer</li>
+</ul>
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-### Backend
-- Node.js
-- Express.js
+<h2>📊 GitHub Stats</h2>
 
-### Database
-- MongoDB
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
 
-### Cloud
-- Cloudinary
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- VS Code
+<h2>🔥 Current Project</h2>
 
----
+<p>
+  <b>Online Memory Album</b><br>
+  A digital photo album with image upload, Cloudinary integration, MongoDB storage, and an interactive flipbook UI.
+</p>
 
-## 📂 Featured Projects
+<h2>📫 Connect With Me</h2>
 
-### 📸 Online Memory Album
-A digital photo album where users can upload and view memories.
-
-**Features**
-- Image Upload
-- Cloudinary Storage
-- MongoDB Database
-- Responsive Design
-- Admin Panel
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
----
-
-⭐ Thanks for visiting my profile!
+<p>
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> |
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+</p>

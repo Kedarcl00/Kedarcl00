@@ -184,6 +184,21 @@ const kedar = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Light mode snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kedarcl00/Kedarcl00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kedarcl00/Kedarcl00/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake eating my commits 🐍" src="https://raw.githubusercontent.com/Kedarcl00/Kedarcl00/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
 
 <div align="center">

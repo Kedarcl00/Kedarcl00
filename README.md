@@ -256,7 +256,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kedarcl00&bg_color=0D0221&color=00FF88&line=FF006E&point=FFD700&area=true&area_color=8B00FF&hide_border=false&border_color=8B00FF&radius=8" alt="Contribution Graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kedarcl00&bg_color=0D0221&color=FF8C00&line=FF4500&point=FFD700&area=true&area_color=FF4500&hide_border=false&border_color=FF4500&radius=8" alt="Contribution Graph" width="96%" />
 
 </div>
 
